@@ -1,6 +1,6 @@
 # Video Editor
 
-Even outdated [Mikeycal Meyers](https://www.youtube.com/watch?v=qDOGFxMJoxw&list=PLjyuVPBuorqJb1AwUu-wh61cLWMBVWS3N) have a great tutorial, for modern one pick [Ryan King Art](https://www.youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV).
+Even outdated [Mikeycal Meyers](https://www.youtube.com/watch?v=qDOGFxMJoxw&list=PLjyuVPBuorqJb1AwUu-wh61cLWMBVWS3N) have a great tutorial, for modern one pick [Ryan King Art](https://www.youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV) and [How To Do A Cinematic Color Grading in Blender by Undine Almani](https://www.youtube.com/watch?v=0rliJW4Icv4).
 
 ## In summary
 
