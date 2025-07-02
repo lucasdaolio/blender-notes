@@ -1,5 +1,7 @@
 # Video Editor
 
+Even outdated [Mikeycal Meyers](https://www.youtube.com/watch?v=qDOGFxMJoxw&list=PLjyuVPBuorqJb1AwUu-wh61cLWMBVWS3N) have a great tutorial, for modern one pick [Ryan King Art](https://www.youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV).
+
 ## In summary
 
 Work by strip, encode, for loops, use filter and groups
@@ -30,10 +32,23 @@ For "Fade-in/out", Add a color, and select the A strip, then the B Strip, the ad
 Use "Cross-fade audio" to make audio transition.\
 GOP = FPS/2.\
 Audio config. Is in Render Tab.\
+
+From line 0 upward usually the stips are addet as:
+- SFX
+- Voice
+- Music
+- Video
+- VFX
+- Color balacing/grading
+
 To join 3D Scene with video, set Render Tab > Shading > Alpha = Transparency.
 
 Never put Audio strip in na group with effect.
 
-To change video speed, cut the wanted part and set the speed factor on video because audio does not follow the changes\
-In UV Editor > Mask Mode, check Match Movie Leght and Auto Refresh properties\
-Ctrl-LMB: Apply mask point
+To change video speed, cut the wanted part and set the speed factor on video because audio does not follow the changes.
+
+In UV Editor > Mask Mode, check Match Movie Leght and Auto Refresh properties.\
+Ctrl-LMB: Apply mask point.
+
+Its possible to add text directly to the video preview.\
+Color grading can be applied via effect strip with modifiers.
