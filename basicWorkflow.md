@@ -1,6 +1,9 @@
 # Basic Workflow
 
-Be up to date with [CGCookie](https://cgcookie.com/) basic course and Blender Release notes.
+## Source
+
+[CGCookie](https://cgcookie.com/) basic course.\
+Blender Release notes.
 
 ## Basic structure and Object Mode
 
